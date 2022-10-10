@@ -8,7 +8,7 @@ using Microsoft.Extensions.Logging;
 using MockProject.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
-using MockProjectta;
+using MockProject;
 
 namespace MockProject.Controllers
 {

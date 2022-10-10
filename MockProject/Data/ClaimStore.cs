@@ -4,7 +4,7 @@ using System.Linq;
 using System.Security.Claims;
 using System.Threading.Tasks;
 
-namespace MockProjectta.Data
+namespace MockProject.Data
 {
     public static class ClaimStore
     {

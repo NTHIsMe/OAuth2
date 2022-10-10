@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Security.Claims;
 using System.Threading.Tasks;
-using MockProjectta;
+using MockProject;
 using MockProject.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
-using MockProjectta.Data;
+using MockProject.Data;
 
 namespace MockProject.Controllers
 {
